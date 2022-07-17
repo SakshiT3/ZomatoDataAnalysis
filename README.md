@@ -1,8 +1,5 @@
 # ZomatoDataAnalysis
 
-# Data analysis is a process of inspecting, cleansing, transforming, and modelling data with the goal of
-# discovering useful information, informing conclusions, and supporting decision-making.
-
 Zomato Data Analysis is one of the most useful analysis for foodies who want :-
 - to taste the best cuisines of every part of the world which lies in their budget. 
 - This analysis is also for those who want to find the value for money restaurants in various parts of the country for the cuisines. 
